@@ -120,13 +120,3 @@ git push origin feature/your-feature-name
 
 	5.	Open a pull request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-
-	•	Instructor: Dr. Salaam for guidance and feedback.
-	•	Resources: SpaCy documentation, Flask tutorials, and NLP research articles.
-
-Feel free to use or modify this README. Let me know if you’d like any additional sections or changes! 😊

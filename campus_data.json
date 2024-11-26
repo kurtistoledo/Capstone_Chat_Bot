@@ -1,0 +1,13 @@
+{
+    "locations": {
+      "library": "Building A, Room 101",
+      "cafeteria": "Building B, Ground Floor"
+    },
+    "events": {
+      "career_fair": {
+        "name": "Career Fair",
+        "date": "December 5th",
+        "location": "Main Hall"
+      }
+    }
+  }
